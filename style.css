@@ -2,7 +2,7 @@
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family:'JetBrainsMono';
+	font-family: 'Oswald', sans-serif;
 }
 .header {
 	background: url('img/image\ 1.png');
@@ -223,7 +223,7 @@ text-align: center;
 
 
 
-@font-face {
+/* @font-face {
 	font-family: JetBrainsMono;
 	src: url("/fonts/JetBrainsMono-Regular.ttf");
-  }
+  } */
